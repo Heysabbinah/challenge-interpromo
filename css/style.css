@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    background-image: url("../img/payments-banner-graphic.png");
+    background-size: cover;
+    background-position: center;
+    height: 550px;
+}
+h1 {
+    font-size: 2em;
+    font-family: sans-serif;
+    color: white;
+    font-weight: lighter;
+    margin-left: 30%;
+    padding-top: 16%;
+}
+.button {
+    width: 240px;
+    height: 30px;
+    background-color: white;
+    color: #8888bb;
+    margin-left: 42%;
+    text-align: center;
+    padding: 10px 2px 2px 0px;
+}
+
+p {
+    color: white;
+    margin-left: 43%;
+    font-size: 1.2em;
+}
+#secondcontent {
+    display: inline-flex;
+    margin-top: 5%;
+}
+.icon2, .icon3 {
+    border-left: 1.2px solid grey;
+    margin-left: 30%;
+
+}
+.thirdtext {
+    color: gray;
+    font-size: 0.6em;
+    text-align: center;
+}
+h2 {
+    font-size: 2em;
+    font-family: sans-serif;
+    color: gray;
+    font-weight: lighter;
+    margin-left: 30%;
+    padding-top: 16%;
+}
+span {
+    color: #8888bb;
+    font-weight: bolder;
+    font-size: 3em;
+    margin-right: 10%;
+}
+#thirdcontent {
+    border-top: 1.2px solid grey;
+}
+.title3 {
+    margin-left: 3%;
+    padding-top: 5%;
+    font-family: sans-serif;
+    color: gray;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 1.2em;
+}
+/*.title2 {
+    color: gray;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin-right: 10%;
+}*/
+.title1 {
+    color: gray;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin-right: 35%;
+}
+.title12, .title13 {
+    color: gray;
+    font-family: sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+.price {
+    color: gray;
+    font-family: sans-serif;
+
+}
